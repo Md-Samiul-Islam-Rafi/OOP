@@ -34,7 +34,7 @@ public class Main {
     public static void main(String[] args) {
 
         Student s1 = new Student(
-                "Daffodil International University",
+                "Daffodil International University", 
                 "Samiul",
                 24135430,
                 "G",
